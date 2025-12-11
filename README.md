@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello my name is Julius, I'm an inspiring software engineer who is interested in all things Python and AI.
+
+- 🔭 I’m currently working on expanding my knowledge and MVPs.
+- 🌱 I’m currently learning Machine Learning fundamentals and improving my coding skills. 
+- 👯 I’m looking to collaborate on anything and anyone, I'll be happy to work on anything.
+- 🤔 I’m looking for help with coding projects and startups, and more exciting infomation about the world of tech.
 <!--
 **ONESO-goat/ONESO-goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
