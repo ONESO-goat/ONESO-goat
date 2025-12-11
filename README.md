@@ -9,7 +9,7 @@ Here to upload random projects by me to see how much I've improved over the upco
 - 👯 I’m looking to collaborate on anything and anyone, I'll be happy to work on anything.
 - 🤔 I’m looking for help with coding projects and startups, and more exciting infomation about the world of tech.
 
-- <img src="https://i.pinimg.com/originals/62/a9/ab/62a9ab0b586558a1849e0d5d05cce2e1.gif" alt="Miles Morales Gif - IceGif"/><img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/715d3a09-abdf-45bf-bbea-723e78a0223b" />
+- <img src="https://i.pinimg.com/originals/62/a9/ab/62a9ab0b586558a1849e0d5d05cce2e1.gif" alt="Miles Morales Gif - IceGif"/>
 <!--
 **ONESO-goat/ONESO-goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
