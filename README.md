@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Hello my name is Julius, I'm an inspiring software engineer who is interested in all things Python and AI.
+Hello my name is Julius, Freshly new to coding and software creation.
+I'm an inspiring software engineer who is interested in all things Python and AI.
+Here to upload random projects by me to see how much I've improved over the upcoming years.
 
 - 🔭 I’m currently working on expanding my knowledge and MVPs.
 - 🌱 I’m currently learning Machine Learning fundamentals and improving my coding skills. 
