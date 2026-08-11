@@ -1,14 +1,38 @@
-## Hi there 👋
+Hi there 👋
 
-Hello my name is Julius, Freshly new to coding and software creation.
-I'm an inspiring software engineer who is interested in all things Python and AI.
-Here to upload random projects by me to see how much I've improved over the upcoming years.
+I’m Julius, a Computer Science student and aspiring software engineer focused on building things, learning how they work, and pushing myself into increasingly difficult projects.
 
-- 🔭 I’m currently working on expanding my knowledge and MVPs.
-- 🌱 I’m currently learning Machine Learning fundamentals and improving my coding skills. 
-- 👯 I’m looking to collaborate on anything and anyone, I'll be happy to work on anything.
-- 🤔 I’m looking for help with coding projects and startups, and more exciting infomation about the world of tech.
+I’ve been coding for a while now, primarily with Python and C++, and I’m especially interested in AI/ML, quantitative systems, software engineering, and intelligent agents. Most of my projects start as an idea that I probably have no business attempting yet—and then I figure it out along the way.
 
+I’m using GitHub to document that progression: from small experiments and MVPs to larger systems that challenge what I currently know.
+
+🚀 What I’m Working On
+
+* 🤖 Exploring AI/ML and intelligent agent systems
+* 🧠 Building larger software projects and turning ideas into working MVPs
+* 📈 Exploring quantitative finance and algorithmic systems
+* 💻 Improving my C++ and Python skills through increasingly complex projects
+* 🧮 Strengthening my mathematical foundation for computer science and AI
+* 🏗️ Learning more about software architecture, APIs, databases, and scalable systems
+
+🌱 Currently Learning
+
+* Machine Learning & AI fundamentals
+* C++ and systems programming
+* Data structures & algorithms
+* Mathematics for CS and ML
+* Competitive programming
+* Software engineering best practices
+
+🎯 My Goal
+
+I don’t want GitHub to just be a collection of finished projects. I want it to be a record of how far I can take an idea and how much I can improve as an engineer over the next several years.
+
+Some projects will be polished. Some will be experiments. Some will probably fail spectacularly.
+
+That’s part of the process.
+
+Build → Break → Learn → Rebuild.
 - <img src="https://i.pinimg.com/originals/62/a9/ab/62a9ab0b586558a1849e0d5d05cce2e1.gif" alt="Miles Morales Gif - IceGif"/>
 <!--
 **ONESO-goat/ONESO-goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
