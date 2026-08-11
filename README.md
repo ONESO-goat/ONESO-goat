@@ -34,7 +34,7 @@ That’s part of the process.
 
 **Build → Break → Learn → Rebuild.**
 
-<img src="https://media1.tenor.com/m/vekBPhjxoroAAAAd/spider-man-intothe-spider-verse-miles-morales.gif" alt="a hand is reaching out towards a broken mirror in a dark room ."/>
+<img src="https://media1.tenor.com/m/vekBPhjxoroAAAAd/spider-man-intothe-spider-verse-miles-morales.gif" alt="a hand is reaching out towards a broken mirror in a dark room ."/><img width="640" height="358" alt="image" src="https://github.com/user-attachments/assets/4d48992b-94a9-45d4-8f61-4aa7f1c33419" />
 
 
 <!--
