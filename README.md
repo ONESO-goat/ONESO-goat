@@ -34,7 +34,7 @@ That’s part of the process.
 
 **Build → Break → Learn → Rebuild.**
 
-<img src="https://i.pinimg.com/originals/23/41/98/234198d85a0d3aa808174274cb73b57b.gif" alt="patron saint of mediocrity"/><img width="540" height="223" alt="image" src="https://github.com/user-attachments/assets/065547a6-b667-4cb0-b48a-cb74624ae819" />
+<img src="https://i.pinimg.com/originals/23/41/98/234198d85a0d3aa808174274cb73b57b.gif" alt="patron saint of mediocrity"/>
 
 <!--
 **ONESO-goat/ONESO-goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
